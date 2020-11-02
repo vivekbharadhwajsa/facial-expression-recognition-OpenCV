@@ -12,3 +12,5 @@ OpenCV is used to detect the face using Haar Cascade Classifire
 The trained model is stored as a JSON string
 
 A basic HTML file is in index.html in order to detect the face expression in a browser
+
+**Softwares: Python, OpenCV, Tensorflow**
